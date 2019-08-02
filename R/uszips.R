@@ -9,5 +9,12 @@
 #'
 #' @references
 #' (\href{https://simplemaps.com/data/us-zips}{US Zip Codes Database})
-
+#'
+#'@source https://simplemaps.com/data/us-zips
+#' @format A data frame with 53940 rows and 10 variables:
+#' \describe{
+#'   \item{price}{price, in US dollars}
+#'   \item{carat}{weight of the diamond, in carats}
+#'   ...
+#' }
 "uszips"

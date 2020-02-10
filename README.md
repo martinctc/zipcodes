@@ -12,3 +12,16 @@ You can install the latest development version from GitHub with:
 ```
 install.packages("devtools")
 devtools::install_github("martinctc/zipcodes")
+```
+
+### Accessing the data
+
+You can then access the zipcode data via the following:
+```
+zipcodes::uszips
+```
+...or assign it to a variable:
+
+```
+zips <- zipcodes::uszips
+```

@@ -1,6 +1,8 @@
 # zipcodes
 US Zip Codes Database from simplemaps (Basic)
 
+[![CodeFactor](https://www.codefactor.io/repository/github/martinctc/zipcodes/badge)](https://www.codefactor.io/repository/github/martinctc/zipcodes)
+
 This a simple R package that provides access to the US Zip Codes database from **simplemaps**. Use the dataset in this package to join and look up information for US zip codes, latitudes and longitudes, etc. 
 
 ---
